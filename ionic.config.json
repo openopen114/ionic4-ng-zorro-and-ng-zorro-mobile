@@ -1,0 +1,7 @@
+{
+  "name": "ionic-ng-zorro-and-mobile",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
